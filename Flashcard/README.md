@@ -28,3 +28,9 @@ To run this application, you need a modern web browser (e.g., Chrome, Firefox, S
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/r1a1v1i1/takeUforward.git
+
+2.Navigate to the Project Directory:
+   ```bash 
+   cd flashcard-app
+
+   
